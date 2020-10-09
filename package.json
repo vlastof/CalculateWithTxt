@@ -1,0 +1,30 @@
+{
+  "name": "calculatewithtxt",
+  "version": "1.0.0",
+  "description": "This script can help you to sum all numbers in your .txt file divided by next lines. Данный скрипт позволит вам просуммировать(и вычесть) все цифры разделенный переходом на новую строку из вашего txt файла.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlastof/CalculateWithTxt.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript",
+    "txt",
+    "text",
+    "sum",
+    "сумма",
+    "текст",
+    "скрипт"
+  ],
+  "author": "vlastof",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vlastof/CalculateWithTxt/issues"
+  },
+  "homepage": "https://github.com/vlastof/CalculateWithTxt#readme"
+}
